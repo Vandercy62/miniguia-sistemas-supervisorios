@@ -31,8 +31,8 @@ A curadoria foi dividida em **06 rótulos** estratégicos:
 2.  **Foco em Inovação:** *"Explique, utilizando os materiais disponíveis, como a transição para a Indústria 4.0 e a Internet das Coisas (IoT) transforma o monitoramento de dados em sistemas supervisórios. Foque em como a interconexão de dispositivos otimiza processos e garante sustentabilidade no ambiente corporativo."*.
 3.  **Glossário Técnico:** *"Extraia das fontes os principais termos técnicos relacionados a Sistemas Supervisórios (ex: sensores, IoT, automação, ciclo de vida) e crie um glossário com definições simples e diretas baseadas no texto."*.
 
-### ⚠️ Cicatriz (Dificuldade):
+###  Cicatriz (Dificuldade):
 > *"No início, a IA não explicou bem a parte de **segurança no ambiente corporativo**, então precisei ajustar o prompt para incluir esse termo especificamente e obter uma resposta completa"*.
 
-## 🏁 D. Entrega Final
+##  D. Entrega Final
 Os materiais apresentados abordam o universo dos **sistemas supervisórios**, focando desde os fundamentos de **gestão de projetos** até a aplicação de tecnologias de ponta. As fontes detalham o ciclo de vida de um projeto industrial, enfatizando a importância de **recursos humanos e físicos** para alcançar metas de eficiência e qualidade. Há um destaque especial para o papel vital dos **sensores** em redes de refrigeração, descrevendo passos práticos para sua instalação e integração técnica. Além disso, os textos exploram a transição para a **Indústria 4.0**, ressaltando como a **Internet das Coisas (IoT)** potencializa o monitoramento de dados em tempo real. Por fim, discute-se como a **automação e a interconexão de dispositivos** otimizam processos, garantindo maior sustentabilidade e segurança no ambiente corporativo.
